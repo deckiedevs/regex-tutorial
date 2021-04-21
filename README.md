@@ -8,7 +8,7 @@ I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 ```
 
-## Acceptance Criterial
+## Acceptance Criteria
 ```
 GIVEN a regex tutorial
 WHEN I open the tutorial
